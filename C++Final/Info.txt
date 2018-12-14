@@ -1,0 +1,11 @@
+First Name: Albert
+Last Name: Nguyen
+Age: 19
+Height: 5.580000ft
+Weight: 130lb
+Years of Experience: 0
+Has Worked at: -
+Does Not Have a Bachelors or Masters Degree
+Comments: None.
+
+Applicant is Eligible for an Intern Position.
